@@ -12,7 +12,7 @@ I studied Artificial Intelligence at university so I can also add smart features
 
 ## Languages and Tools
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" title="Flutter"/>
   <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" title="Kotlin"/>
   <img src="https://skillicons.dev/icons?i=swift" width="48" height="48" alt="Swift" title="Swift"/>
@@ -43,7 +43,23 @@ A water-tracking app with an interactive water-fill effect.
 
 ## Contact
 
-* Email: [omar.madanni@gmail.com](mailto:omar.madanni@gmail.com)
-* WhatsApp: [Click here](https://wa.me/201021374317)
-* LinkedIn: [Click here](https://www.linkedin.com/in/omarmadanni)
-* Website: [Click here](https://omarmadanni.com)
+<p align="center">
+  <a href="mailto:omar.madanni@gmail.com" title="Email">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://wa.me/201021374317" title="WhatsApp">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="https://www.linkedin.com/in/omarmadanni/" title="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.facebook.com/omar.madanni" title="Facebook">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://www.instagram.com/omar.madanni/" title="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://omarmadanni.com/" title="Website">
+    <img src="https://img.shields.io/badge/Website-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+  </a>
+</p>
