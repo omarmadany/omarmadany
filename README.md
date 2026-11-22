@@ -8,7 +8,7 @@ I am a developer specializing in mobile application development and artificial i
 
 I deliver projects end to end from UI/UX design and development to testing backend and full source code
 
-I studied Artificial Intelligence at university so I can also add smart features to your app such as prediction data analysis and image recognition
+I studied Artificial Intelligence at university so I can also add smart features to your app such as prediction data analysis and image recognition.
 
 ## Languages and Tools
 
