@@ -41,36 +41,13 @@ I studied Artificial Intelligence at university so I can also add smart features
 A water-tracking app with an interactive water-fill effect.
 `HTML` `CSS` `JavaScript`
 
-## Contact
+## 🤝 Connect with me:
 
-<h3 align="center">Have an idea? Let's build it together 🚀</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=2F81F7&center=true&vCenter=true&width=460&lines=Mobile+Apps+%7C+AI+%7C+Full+Stack;Open+for+freelance+projects;Reply+within+24+hours" alt="Typing animation"/>
+<p align="left">
+  <a href="https://www.linkedin.com/in/omarmadanni/" target="_blank"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" height="40" alt="LinkedIn" title="LinkedIn"/></a>&nbsp;
+  <a href="https://www.instagram.com/omar.madanni/" target="_blank"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" height="40" alt="Instagram" title="Instagram"/></a>&nbsp;
+  <a href="https://www.facebook.com/omar.madanni" target="_blank"><img src="https://cdn.simpleicons.org/facebook/1877F2" width="40" height="40" alt="Facebook" title="Facebook"/></a>&nbsp;
+  <a href="https://wa.me/201021374317" target="_blank"><img src="https://cdn.simpleicons.org/whatsapp/25D366" width="40" height="40" alt="WhatsApp" title="WhatsApp"/></a>&nbsp;
+  <a href="mailto:omar.madanni@gmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40" alt="Email" title="Email"/></a>&nbsp;
+  <a href="https://omarmadanni.com/" target="_blank"><img src="https://cdn.simpleicons.org/googlechrome/F4B400" width="40" height="40" alt="Website" title="Website"/></a>
 </p>
-
-<p align="center">
-  <a href="https://wa.me/201021374317">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat_Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-  <a href="mailto:omar.madanni@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://omarmadanni.com/">
-    <img src="https://img.shields.io/badge/Portfolio-omarmadanni.com-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/omarmadanni/">
-    <img src="https://img.shields.io/badge/LinkedIn-omarmadanni-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.facebook.com/omar.madanni">
-    <img src="https://img.shields.io/badge/Facebook-omar.madanni-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://www.instagram.com/omar.madanni/">
-    <img src="https://img.shields.io/badge/Instagram-omar.madanni-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=120&section=footer" width="100%" alt="footer"/>
