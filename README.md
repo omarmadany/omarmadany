@@ -41,13 +41,6 @@ I studied Artificial Intelligence at university so I can also add smart features
 A water-tracking app with an interactive water-fill effect.
 `HTML` `CSS` `JavaScript`
 
-## 🤝 Connect with me:
+## Contact
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/omarmadanni/" target="_blank"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" height="40" alt="LinkedIn" title="LinkedIn"/></a>&nbsp;
-  <a href="https://www.instagram.com/omar.madanni/" target="_blank"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" height="40" alt="Instagram" title="Instagram"/></a>&nbsp;
-  <a href="https://www.facebook.com/omar.madanni" target="_blank"><img src="https://cdn.simpleicons.org/facebook/1877F2" width="40" height="40" alt="Facebook" title="Facebook"/></a>&nbsp;
-  <a href="https://wa.me/201021374317" target="_blank"><img src="https://cdn.simpleicons.org/whatsapp/25D366" width="40" height="40" alt="WhatsApp" title="WhatsApp"/></a>&nbsp;
-  <a href="mailto:omar.madanni@gmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40" alt="Email" title="Email"/></a>&nbsp;
-  <a href="https://omarmadanni.com/" target="_blank"><img src="https://cdn.simpleicons.org/googlechrome/F4B400" width="40" height="40" alt="Website" title="Website"/></a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/omarmadanni/) · [Instagram](https://www.instagram.com/omar.madanni/) · [Facebook](https://www.facebook.com/omar.madanni) · [WhatsApp](https://wa.me/201021374317) · [Email](mailto:omar.madanni@gmail.com) · [Website](https://omarmadanni.com/)
