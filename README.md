@@ -2,9 +2,7 @@
   <img src="banner.png" alt="Omar Madani banner" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Mobile+Application+Developer;Artificial+Intelligence+Engineer" alt="Typing SVG" />
-</p>
+<h1 align="center">Omar Madani</h1>
 
 ## About Me
 
@@ -14,101 +12,48 @@ What sets me apart is that I can deliver your project end to end: from UI/UX des
 
 In addition to app development, I studied Artificial Intelligence at university, so I can also add AI-powered features to your project, such as prediction, data analysis, and image recognition, to deliver a complete and professional product from a single source.
 
----
+## Languages and Tools
 
-## Mobile Development
-
-<table align="left">
+<div align="center">
+<table>
   <tr>
-    <td align="center" valign="top" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="45" alt="Flutter"/><br/>Flutter</td>
-    <td align="center" valign="top" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="45" alt="React Native"/><br/>React Native</td>
-    <td align="center" valign="top" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="45" alt="Kotlin"/><br/>Kotlin</td>
-    <td align="center" valign="top" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" height="45" alt="Swift"/><br/>Swift</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=flutter" width="48" alt="Flutter"/><br/><sub>Flutter</sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=dart" width="48" alt="Dart"/><br/><sub>Dart</sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=kotlin" width="48" alt="Kotlin"/><br/><sub>Kotlin</sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=swift" width="48" alt="Swift"/><br/><sub>Swift</sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=react" width="48" alt="React"/><br/><sub>React</sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=py" width="48" alt="Python"/><br/><sub>Python</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=cpp" width="48" alt="C++"/><br/><sub>C++</sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=cs" width="48" alt="C#"/><br/><sub>C#</sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=r" width="48" alt="R"/><br/><sub>R</sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=php" width="48" alt="PHP"/><br/><sub>PHP</sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" alt="TensorFlow"/><br/><sub>TensorFlow</sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=pytorch" width="48" alt="PyTorch"/><br/><sub>PyTorch</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=pandas" width="48" alt="Pandas"/><br/><sub>Pandas</sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=numpy" width="48" alt="NumPy"/><br/><sub>NumPy</sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=firebase" width="48" alt="Firebase"/><br/><sub>Firebase</sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=supabase" width="48" alt="Supabase"/><br/><sub>Supabase</sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=mysql" width="48" alt="MySQL"/><br/><sub>MySQL</sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=git" width="48" alt="Git"/><br/><sub>Git</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/><br/><sub>GitHub</sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker"/><br/><sub>Docker</sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=vscode" width="48" alt="VS Code"/><br/><sub>VS Code</sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=visualstudio" width="48" alt="Visual Studio"/><br/><sub>Visual Studio</sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=unity" width="48" alt="Unity"/><br/><sub>Unity</sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=figma" width="48" alt="Figma"/><br/><sub>Figma</sub></td>
   </tr>
 </table>
-<br clear="all"/>
-
-## Programming Languages
-
-<table align="left">
-  <tr>
-    <td align="center" valign="top" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="45" alt="Python"/><br/>Python</td>
-    <td align="center" valign="top" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="45" alt="C++"/><br/>C++</td>
-    <td align="center" valign="top" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="45" alt="C#"/><br/>C#</td>
-    <td align="center" valign="top" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" height="45" alt="R"/><br/>R</td>
-    <td align="center" valign="top" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="45" alt="PHP"/><br/>PHP</td>
-  </tr>
-</table>
-<br clear="all"/>
-
-## AI & Machine Learning
-
-<table align="left">
-  <tr>
-    <td align="center" valign="top" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" height="45" alt="TensorFlow"/><br/>TensorFlow</td>
-    <td align="center" valign="top" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" height="45" alt="PyTorch"/><br/>PyTorch</td>
-    <td align="center" valign="top" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="45" alt="Pandas"/><br/>Pandas</td>
-    <td align="center" valign="top" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="45" alt="NumPy"/><br/>NumPy</td>
-    <td align="center" valign="top" width="100"><img src="https://cdn.simpleicons.org/openai/74AA9C" height="45" alt="OpenAI API"/><br/>OpenAI API</td>
-  </tr>
-</table>
-<br clear="all"/>
-
-## Backend & Databases
-
-<table align="left">
-  <tr>
-    <td align="center" valign="top" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" height="45" alt="Firebase"/><br/>Firebase</td>
-    <td align="center" valign="top" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" height="45" alt="Supabase"/><br/>Supabase</td>
-    <td align="center" valign="top" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="45" alt="MySQL"/><br/>MySQL</td>
-  </tr>
-</table>
-<br clear="all"/>
-
-## Tools & IDEs
-
-<table align="left">
-  <tr>
-    <td align="center" valign="top" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="45" alt="Git"/><br/>Git</td>
-    <td align="center" valign="top" width="100"><img src="https://cdn.simpleicons.org/github/8B949E" height="45" alt="GitHub"/><br/>GitHub</td>
-    <td align="center" valign="top" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="45" alt="Docker"/><br/>Docker</td>
-    <td align="center" valign="top" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="45" alt="VS Code"/><br/>VS Code</td>
-    <td align="center" valign="top" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" height="45" alt="Visual Studio"/><br/>Visual Studio</td>
-    <td align="center" valign="top" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" height="45" alt="Unity"/><br/>Unity</td>
-  </tr>
-</table>
-<br clear="all"/>
-
-## Design & Productivity
-
-<table align="left">
-  <tr>
-    <td align="center" valign="top" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" height="45" alt="Figma"/><br/>Figma</td>
-    <td align="center" valign="top" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" height="45" alt="Canva"/><br/>Canva</td>
-    <td align="center" valign="top" width="100"><img src="https://img.icons8.com/color/96/microsoft-word-2019--v2.png" height="45" alt="Word"/><br/>Word</td>
-    <td align="center" valign="top" width="100"><img src="https://img.icons8.com/color/96/microsoft-powerpoint-2019--v2.png" height="45" alt="PowerPoint"/><br/>PowerPoint</td>
-  </tr>
-</table>
-<br clear="all"/>
+</div>
 
 ## Featured Projects
 
-- **[Wader](https://github.com/YOUR_USERNAME/wader)**: a water-tracking app with an interactive water-fill effect. Built with HTML, CSS and JavaScript.
-- Add your next project here.
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="170"/>
-</p>
-
 ## Contact
 
-<table align="left">
-  <tr>
-    <td align="center" valign="top" width="140"><a href="mailto:omar.madanni@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" height="45" alt="Gmail"/></a><br/>omar.madanni@gmail.com</td>
-    <td align="center" valign="top" width="140"><a href="https://wa.me/201021374317"><img src="https://cdn.simpleicons.org/whatsapp/25D366" height="45" alt="WhatsApp"/></a><br/>WhatsApp</td>
-  </tr>
-</table>
-<br clear="all"/>
+* Email: [omar.madanni@gmail.com](mailto:omar.madanni@gmail.com)
+* WhatsApp: [Click here to chat](https://wa.me/201021374317)
