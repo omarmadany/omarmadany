@@ -43,7 +43,7 @@ A water-tracking app with an interactive water-fill effect.
 
 ## Contact
 
-Built by **Omar Madani**.
+
 
 - [omar.madanni@gmail.com](mailto:omar.madanni@gmail.com)
 - [WhatsApp](https://wa.me/201021374317)
