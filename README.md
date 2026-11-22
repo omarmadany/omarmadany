@@ -2,13 +2,13 @@
   <img src="banner.png" alt="Omar Madani banner" width="100%"/>
 </p>
 
-<p align="center"><b>Building AI-powered mobile apps, from design to delivery.</b></p>
-
 ## About Me
 
-I am a developer specializing in mobile application development and artificial intelligence. I deliver projects end to end: UI/UX design, development, testing, backend, and full source code.
+I am a developer specializing in mobile application development and artificial intelligence
 
-I studied Artificial Intelligence at university, so I can also add smart features to your app, such as prediction, data analysis, and image recognition.
+I deliver projects end to end from UI/UX design and development to testing backend and full source code
+
+I studied Artificial Intelligence at university so I can also add smart features to your app such as prediction data analysis and image recognition
 
 ## Languages and Tools
 
