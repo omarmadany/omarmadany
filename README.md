@@ -12,37 +12,28 @@ I studied Artificial Intelligence at university so I can also add smart features
 
 ## Languages and Tools
 
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter"/><br/><sub>Flutter</sub></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart"/><br/><sub>Dart</sub></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin"/><br/><sub>Kotlin</sub></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=swift" width="48" height="48" alt="Swift"/><br/><sub>Swift</sub></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React"/><br/><sub>React</sub></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python"/><br/><sub>Python</sub></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++"/><br/><sub>C++</sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#"/><br/><sub>C#</sub></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow"/><br/><sub>TensorFlow</sub></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch"/><br/><sub>PyTorch</sub></td>
-    <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/><br/><sub>Pandas</sub></td>
-    <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/><br/><sub>NumPy</sub></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase"/><br/><sub>Firebase</sub></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase"/><br/><sub>Supabase</sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL"/><br/><sub>MySQL</sub></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/><br/><sub>Git</sub></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/><br/><sub>GitHub</sub></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/><br/><sub>Docker</sub></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"/><br/><sub>VS Code</sub></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="Unity"/><br/><sub>Unity</sub></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma"/><br/><sub>Figma</sub></td>
-  </tr>
-</table>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+</p>
 
 ## Featured Projects
 
