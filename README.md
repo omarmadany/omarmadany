@@ -13,26 +13,26 @@ I studied Artificial Intelligence at university so I can also add smart features
 ## Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" title="Flutter"/>
-  <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" title="Kotlin"/>
-  <img src="https://skillicons.dev/icons?i=swift" width="48" height="48" alt="Swift" title="Swift"/>
-  <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" title="React"/>
-  <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" title="Python"/>
-  <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" title="C++"/>
-  <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" title="C#"/>
-  <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" title="TensorFlow"/>
-  <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" title="PyTorch"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" title="Pandas"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" title="NumPy"/>
-  <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" title="Firebase"/>
-  <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" title="Supabase"/>
-  <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" title="MySQL"/>
-  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" title="Git"/>
-  <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" title="GitHub"/>
-  <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" title="Docker"/>
-  <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" title="VS Code"/>
-  <img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="Unity" title="Unity"/>
-  <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" title="Figma"/>
+  <img src="assets/skills/flutter.svg" height="96" alt="Flutter"/>
+  <img src="assets/skills/kotlin.svg" height="96" alt="Kotlin"/>
+  <img src="assets/skills/swift.svg" height="96" alt="Swift"/>
+  <img src="assets/skills/react.svg" height="96" alt="React"/>
+  <img src="assets/skills/python.svg" height="96" alt="Python"/>
+  <img src="assets/skills/cplusplus.svg" height="96" alt="C++"/>
+  <img src="assets/skills/csharp.svg" height="96" alt="C#"/>
+  <img src="assets/skills/tensorflow.svg" height="96" alt="TensorFlow"/>
+  <img src="assets/skills/pytorch.svg" height="96" alt="PyTorch"/>
+  <img src="assets/skills/pandas.svg" height="96" alt="Pandas"/>
+  <img src="assets/skills/numpy.svg" height="96" alt="NumPy"/>
+  <img src="assets/skills/firebase.svg" height="96" alt="Firebase"/>
+  <img src="assets/skills/supabase.svg" height="96" alt="Supabase"/>
+  <img src="assets/skills/mysql.svg" height="96" alt="MySQL"/>
+  <img src="assets/skills/git.svg" height="96" alt="Git"/>
+  <img src="assets/skills/github.svg" height="96" alt="GitHub"/>
+  <img src="assets/skills/docker.svg" height="96" alt="Docker"/>
+  <img src="assets/skills/vscode.svg" height="96" alt="VS Code"/>
+  <img src="assets/skills/unity.svg" height="96" alt="Unity"/>
+  <img src="assets/skills/figma.svg" height="96" alt="Figma"/>
 </p>
 
 ## Featured Projects
@@ -44,6 +44,6 @@ A water-tracking app with an interactive water-fill effect.
 ## Contact
 
 * Email: [omar.madanni@gmail.com](mailto:omar.madanni@gmail.com)
-* WhatsApp: [Click here to chat](https://wa.me/201021374317)
-* LinkedIn: [in/omarmadanni](https://www.linkedin.com/in/omarmadanni)
-* Website: [omarmadanni.com](https://omarmadanni.com)
+* WhatsApp: [Click here](https://wa.me/201021374317)
+* LinkedIn: [Click here](https://www.linkedin.com/in/omarmadanni)
+* Website: [Click here](https://omarmadanni.com)
