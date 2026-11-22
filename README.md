@@ -1,4 +1,6 @@
-<h1 align="center">Omar Madani</h1>
+<p align="center">
+  <img src="banner.png" alt="Omar Madani banner" width="100%"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Mobile+Application+Developer;Artificial+Intelligence+Engineer" alt="Typing SVG" />
@@ -91,7 +93,15 @@ In addition to app development, I studied Artificial Intelligence at university,
 
 ## Featured Projects
 
+- **[Wader](https://github.com/YOUR_USERNAME/wader)**: a water-tracking app with an interactive water-fill effect. Built with HTML, CSS and JavaScript.
+- Add your next project here.
+
 ## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="170"/>
+</p>
 
 ## Contact
 
