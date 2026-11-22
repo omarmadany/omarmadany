@@ -43,23 +43,34 @@ A water-tracking app with an interactive water-fill effect.
 
 ## Contact
 
+<h3 align="center">Have an idea? Let's build it together 🚀</h3>
+
 <p align="center">
-  <a href="mailto:omar.madanni@gmail.com" title="Email">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=2F81F7&center=true&vCenter=true&width=460&lines=Mobile+Apps+%7C+AI+%7C+Full+Stack;Open+for+freelance+projects;Reply+within+24+hours" alt="Typing animation"/>
+</p>
+
+<p align="center">
+  <a href="https://wa.me/201021374317">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat_Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
-  <a href="https://wa.me/201021374317" title="WhatsApp">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  <a href="mailto:omar.madanni@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/omarmadanni/" title="LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.facebook.com/omar.madanni" title="Facebook">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://www.instagram.com/omar.madanni/" title="Instagram">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://omarmadanni.com/" title="Website">
-    <img src="https://img.shields.io/badge/Website-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+  <a href="https://omarmadanni.com/">
+    <img src="https://img.shields.io/badge/Portfolio-omarmadanni.com-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
   </a>
 </p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/omarmadanni/">
+    <img src="https://img.shields.io/badge/LinkedIn-omarmadanni-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.facebook.com/omar.madanni">
+    <img src="https://img.shields.io/badge/Facebook-omar.madanni-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://www.instagram.com/omar.madanni/">
+    <img src="https://img.shields.io/badge/Instagram-omar.madanni-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=120&section=footer" width="100%" alt="footer"/>
