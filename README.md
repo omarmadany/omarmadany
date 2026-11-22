@@ -12,7 +12,6 @@ I studied Artificial Intelligence at university so I can also add smart features
 
 ## Languages and Tools
 
-<div align="center">
 <table>
   <tr>
     <td align="center" width="80"><img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter"/><br/><sub>Flutter</sub></td>
@@ -45,7 +44,6 @@ I studied Artificial Intelligence at university so I can also add smart features
     <td align="center" width="80"><img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma"/><br/><sub>Figma</sub></td>
   </tr>
 </table>
-</div>
 
 ## Featured Projects
 
