@@ -43,4 +43,11 @@ A water-tracking app with an interactive water-fill effect.
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/omarmadanni/) · [Instagram](https://www.instagram.com/omar.madanni/) · [Facebook](https://www.facebook.com/omar.madanni) · [WhatsApp](https://wa.me/201021374317) · [Email](mailto:omar.madanni@gmail.com) · [Website](https://omarmadanni.com/)
+Built by **Omar Madani**.
+
+- Email: [omar.madanni@gmail.com](mailto:omar.madanni@gmail.com)
+- WhatsApp: [Click here to chat](https://wa.me/201021374317)
+- LinkedIn: [omarmadanni](https://www.linkedin.com/in/omarmadanni/)
+- Facebook: [omar.madanni](https://www.facebook.com/omar.madanni)
+- Instagram: [omar.madanni](https://www.instagram.com/omar.madanni/)
+- Website: [omarmadanni.com](https://omarmadanni.com/)
